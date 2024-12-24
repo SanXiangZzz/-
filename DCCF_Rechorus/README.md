@@ -1,6 +1,7 @@
-# Disentangled Contrastive Collaborative Filtering
+# Disentangled Contrastive Collaborative Filtering 论文复现
 
 ReChorus version
+使用ReChorus框架。
 
 ## Environment
 
