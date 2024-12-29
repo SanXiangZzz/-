@@ -1,6 +1,8 @@
-# Disentangled Contrastive Collaborative Filtering
+# DCCF-Rechorus
 
-ReChorus version
+ReChorus version.
+
+Add the file DCCF.py to folder "Rechorus/src/models/general" and run.
 
 ## Environment
 
